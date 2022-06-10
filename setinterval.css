@@ -1,0 +1,38 @@
+button{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+    padding: 1rem, 1.5rem;
+    outline: none;
+    border-radius: 0.4rem;
+    font-size: 3rem;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 322);
+    transition: all 0.4s;
+}
+
+button:hover{
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 322);
+
+}
+
+.refresh{ position: absolute;
+    top: 58%;
+    left: 50%;
+    transform: translate(-50%, -60%);
+    cursor: pointer;
+    outline: none;
+    border-radius: 0.4rem;
+    font-size: 1.3rem;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 322);
+    transition: all 0.4s;
+    margin-top: 2px;
+    padding: 0rem, 5rem;
+
+}
+
+button:hover{
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 322);
+
+}
