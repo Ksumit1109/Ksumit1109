@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sumit    
-- 🌱 I’m currently learning advance javascript  
+- 🌱 I’m currently learning full stack development
 - 📫 How to reach me gmail id - Ksumit1109@gmail.com
 <!---
 Ksumit1109/Ksumit1109 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
