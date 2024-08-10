@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [aitoolsbazaar](https://www.aitoolsbazaar.com/)
 
-- 🌱 I’m currently learning **Jquery**
+- 🌱 I’m currently learning **Jquery ,Next.js, NodeJS, MongoDb**
 
 - 💬 Ask me about **Next.js, NodeJS, MongoDb,Jquery**
 
