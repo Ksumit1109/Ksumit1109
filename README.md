@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [aitoolsbazaar](https://www.aitoolsbazaar.com/)
 
-- 🌱 I’m currently learning **Jquery ,Next.js, NodeJS, MongoDb**
+- 🌱 I’m currently learning **LangChain, OpenAI, Pinecone, BullMQ, and Docker**
 
-- 💬 Ask me about **Next.js, NodeJS, MongoDb,Jquery**
+- 💬 Ask me about **Next.js, Node.js, MongoDB, LangChain, Express.js, and TailwindCSS**
 
 - 📫 How to reach me **ksumit1109@gmail.com**
 
