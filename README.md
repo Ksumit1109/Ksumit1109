@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=ksumit1109&label=view+count&style=plastic)
 
-# Hi , I'm Sumit <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+# Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Sumit
 
 <div align="center">
   <img alt="GIF" align="center" src="https://media.giphy.com/media/d5fMI9ftgQiGzoZoB9/giphy.gif">
