@@ -92,12 +92,13 @@ Click any link from below, let's have a chat 😉.
 
 
 <p align="center">
-  <a href="https://github.com/ksumit1109/github-readme-stats"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=ksumit1109&&show_icons=true&theme=radical&include_all_commits=true"/>
+  <a href="https://github.com/ksumit1109/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=ksumit1109&show_icons=true&theme=radical&include_all_commits=true" alt="Sumit's Stats" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ksumit1109&theme=algolia" alt="ksumit1109" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ksumit1109&theme=algolia" alt="Sumit's Trophies" />
   </a>
 </p>
