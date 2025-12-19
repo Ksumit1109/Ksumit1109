@@ -19,7 +19,9 @@
 
 - **Current Stack:** Next.js, Node.js, MongoDB, Express.js, TailwindCSS
 - **Currently Learning:** LangChain, OpenAI, Pinecone, BullMQ, Docker
-- **Fun Fact:** Did you know that the first computer programmer was a woman? Ada Lovelace is widely regarded as the first person to write a program for Charles Babbage's Analytical Engine in the mid-1800s! 💻🚀
+- **Fun Fact:** Did you know that the first computer programmer was a woman?
+  Ada Lovelace is widely regarded as the first person to write a program for
+  Charles Babbage's Analytical Engine in the mid-1800s! 💻🚀
 
 </br>
 </br>
