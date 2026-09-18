@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - Fullstack Developer with a passion for building scalable web applications. Currently working at **Digrowfa Private Limited** and building [aitoolsbazaar](https://www.aitoolsbazaar.com/).
+### - Fullstack Developer with a passion for building scalable web applications. Currently working at **Digrowfa Private Limited** and building [GLEQ AI](https://gleq.ai/).
 
 <img alt="gojo" align="right" src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/tenor.gif?raw=true">
 
